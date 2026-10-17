@@ -1,4 +1,4 @@
-# SCIC — Sistema de Comunicação Interplanetária da Colônia
+# SCIC Sistema de Comunicação Interplanetária da Colônia
 
 **Missão Aurora Siger · Fase 6 · Atividade integradora**
 
@@ -114,4 +114,3 @@ B: Linear múltipla          4.455    28.588   5.347  0.981
 - Após a tempestade, a Comunicação Central leva ~4,7 h para voltar ao normal (Newton).
 
 Detalhes e discussão em `relatorio_tecnico.md`.
-# scic_aurora_siger
